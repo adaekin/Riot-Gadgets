@@ -1,0 +1,123 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RiotGadgets/1.0.0": {
+        "dependencies": {
+          "Assembly-CSharp": "0.0.0.0",
+          "com.rlabrecque.steamworks.net": "0.0.0.0",
+          "Rocket.API": "4.9.3.16",
+          "Rocket.Core": "4.9.3.16",
+          "Rocket.Unturned": "4.9.3.17",
+          "UnityEngine.CoreModule": "0.0.0.0",
+          "UnityEngine": "0.0.0.0"
+        },
+        "runtime": {
+          "RiotGadgets.dll": {}
+        }
+      },
+      "Assembly-CSharp/0.0.0.0": {
+        "runtime": {
+          "Assembly-CSharp.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "com.rlabrecque.steamworks.net/0.0.0.0": {
+        "runtime": {
+          "com.rlabrecque.steamworks.net.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Rocket.API/4.9.3.16": {
+        "runtime": {
+          "Rocket.API.dll": {
+            "assemblyVersion": "4.9.3.16",
+            "fileVersion": "4.9.3.16"
+          }
+        }
+      },
+      "Rocket.Core/4.9.3.16": {
+        "runtime": {
+          "Rocket.Core.dll": {
+            "assemblyVersion": "4.9.3.16",
+            "fileVersion": "4.9.3.16"
+          }
+        }
+      },
+      "Rocket.Unturned/4.9.3.17": {
+        "runtime": {
+          "Rocket.Unturned.dll": {
+            "assemblyVersion": "4.9.3.17",
+            "fileVersion": "4.9.3.17"
+          }
+        }
+      },
+      "UnityEngine.CoreModule/0.0.0.0": {
+        "runtime": {
+          "UnityEngine.CoreModule.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "UnityEngine/0.0.0.0": {
+        "runtime": {
+          "UnityEngine.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RiotGadgets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assembly-CSharp/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "com.rlabrecque.steamworks.net/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rocket.API/4.9.3.16": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rocket.Core/4.9.3.16": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rocket.Unturned/4.9.3.17": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine.CoreModule/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnityEngine/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

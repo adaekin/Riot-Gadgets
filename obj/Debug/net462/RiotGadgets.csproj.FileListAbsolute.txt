@@ -1,0 +1,5 @@
+C:\Users\Hp\source\repos\RiotGadgets\RiotGadgets\obj\Debug\net462\RiotGadgets.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\RiotGadgets\RiotGadgets\obj\Debug\net462\RiotGadgets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\RiotGadgets\RiotGadgets\obj\Debug\net462\RiotGadgets.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\RiotGadgets\RiotGadgets\obj\Debug\net462\RiotGadgets.AssemblyInfo.cs
+C:\Users\Hp\source\repos\RiotGadgets\RiotGadgets\obj\Debug\net462\RiotGadgets.csproj.CoreCompileInputs.cache
