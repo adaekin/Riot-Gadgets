@@ -8,3 +8,5 @@ Riot Gadgets for Unturned,
 - You can specify some weapons, firearms etc. in configuration for neutralize player.
 
 # Configurations
+
+![Başlıksız-1](https://github.com/user-attachments/assets/f73f988f-ea86-4c42-93e2-e033ebc9a696)
